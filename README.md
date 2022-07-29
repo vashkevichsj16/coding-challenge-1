@@ -34,3 +34,9 @@ assumptions:
 3 System provide "fake" data storing level
 
 4 The solution will provide maven as a build system and instruction for build the project on backend
+
+
+For fill the data use postman collection
+```
+test.postman_collection.json
+```
